@@ -1,0 +1,48 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-color:  #047a6e21;
+    color:rgb(4, 99, 91) ;
+}
+h1{
+    text-align: center;
+    margin: 30px;
+}
+p{
+    text-align: center;
+}
+.form{
+    height: 300px;
+    width: 400px;
+    padding:10px 20px 10px ;
+    border: 2px solid rgb(4, 99, 91);
+    border-radius: 10px;
+    margin:70px auto;
+    text-align: center;
+    color:rgb(4, 99, 91);
+}
+.form input{
+    width: 90%;
+    margin: 30px 10px;
+    padding: 10px 15px;
+    box-shadow: 2px 2px 2px olive;
+    border: 2px solid rgb(4, 99, 91);
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+#but1{
+    text-align: center;
+    background-color:#047a6e21;
+    color: rgb(4, 99, 91);
+    padding:10px;
+    border: 1px solid rgb(4, 99, 91);
+    border-radius: 10px;
+    margin:20px 20px;
+    cursor: pointer;
+}
+#but1:hover{
+    background-color: rgb(4, 99, 91);
+    color: beige;
+}
